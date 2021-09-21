@@ -23,3 +23,6 @@ or
 ```
   npm run build
 ```
+```html
+<script nomodule src="fallback.js"></script>
+```
