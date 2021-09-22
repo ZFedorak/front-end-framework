@@ -38,4 +38,5 @@ asyncTask()
 
 dataFetcher('https://jsonplaceholder.typicode.com/todos/')*/
 
-console.log("hello")
+
+console.log('Hello')
