@@ -23,6 +23,9 @@ or
 ```
   npm run build
 ```
+
+1. No module fallback
 ```html
 <script nomodule src="fallback.js"></script>
 ```
+
