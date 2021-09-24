@@ -1,3 +1,4 @@
+
 const dataFetcher = async function (url=null) {
 //this understood 
 //check the url value !null
@@ -13,6 +14,7 @@ return data
 }
 
 export {dataFetcher}
+
 /*
 const dataFetchers = () => {
 explict return
