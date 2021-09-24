@@ -16,7 +16,7 @@ import makeElement from "./utils/makeElement"
 import { render } from "./utils/render";
 const appInit = async function(){
    // loading data 
-   const data = await dataFetcher('https://jsonplaceholder.typicode.com/todos/')
+   const data = await dataFetcher('https://jsonplaceholder.typicode.com/users/5')
 // instead of using .then you can use await
 // were adding the data to the view 
 const templateLiteral = userTemplate(data)
